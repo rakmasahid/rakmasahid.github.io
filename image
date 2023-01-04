@@ -1,0 +1,10 @@
+
+<DocumentType html>
+<html lang="en">
+    <head>
+        <title>Image</title>
+    </head>
+    <body>
+       <img src="IMG_2976.jpg" alt="Alpha" width="300">
+    </body>
+</html>

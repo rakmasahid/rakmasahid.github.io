@@ -1,0 +1,28 @@
+<DocumentType html>
+<html lang="en">
+    <head>
+        <title>Table</title>
+    </head>
+    <body>
+        <table>
+            <thead>
+                <tr>
+                    <td>pacific ocean</td>
+                    <td>4,280</td>
+                    <td>10,9100</td>
+                </tr>
+                </tr>
+                <td>Ocean</td>
+                <td> Average Depth </td>
+                <td>Maximum Depth </td>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>pacific ocean</td>
+                    <td>4,280 m</td>
+                    <td>10,9100 m</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
